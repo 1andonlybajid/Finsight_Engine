@@ -1,0 +1,21 @@
+# Python cache
+_pycache_/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# Environment files (secrets)
+*.env
+
+# Data folders
+/data/raw/
+/data/processed/
+
+# OS-specific
+.DS_Store
+
+# IDE configs
+.idea/
+.vscode/
